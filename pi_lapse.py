@@ -7,7 +7,7 @@ frame_counter = 1
 # 1 Day  = 86400
 
 # Time between each photo (seconds)
-time_between_frames = 3
+time_between_frames = 60
 
 # Duration of Time Lapse (seconds)
 duration = 86400
