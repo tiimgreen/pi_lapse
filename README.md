@@ -13,3 +13,5 @@ subprocess.call("raspistill -w %d -h %d -e jpg -q 15 -o %s" % (image_width, imag
 ```python
 subprocess.call("fswebcam -r %dx%d %s" % (image_width, image_height, filename), shell = True)
 ```
+
+An exmaple of a time lapse can be seen [here](https://www.youtube.com/watch?v=iARVERJb2K0), taken with Pi Lapse.
